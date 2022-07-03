@@ -6,4 +6,5 @@ As already mentioned that the dataset is the supervised dataset i.e. the classes
 pelvic incidence, pelvic tilt, lumbar lordosis angle, sacral slope, pelvic radius, degree spondylolisthesis, pelvic slope, direct tilt, thoracic slope, cervical tilt, sacrum angle and scoliosis slope.
 All the predictors have numerical data type with binary class : normal & abnormal.
 
-The dataset is taken up from Kaggle. (https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset)
+The dataset is taken up from Kaggle. 
+**Dataset** **Link** *:* https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset
